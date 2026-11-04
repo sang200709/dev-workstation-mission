@@ -152,3 +152,8 @@ Mode                 LastWriteTime         Length Name
 -a----        ...                         permission-test.sh
 ...
 ```
+
+
+
+<img width="674" height="742" alt="image" src="https://github.com/user-attachments/assets/14efbab2-d602-4093-adcb-a3ec0daafc51" />
+
