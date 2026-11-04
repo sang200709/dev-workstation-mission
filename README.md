@@ -2,15 +2,15 @@
 
 
 
-\# Dev Workstation Mission
+# Dev Workstation Mission
 
 
 
-\## 1. 작업 폴더 생성
+## 1. 작업 폴더 생성
 
 
 
-\### 실행한 명령어
+### 실행한 명령어
 
 
 
@@ -30,7 +30,7 @@ pwd
 
 
 
-\### 결과
+### 결과
 
 
 
@@ -50,15 +50,15 @@ C:\\Users\\sanghyun0709201618\\dev-workstation-mission
 
 
 
-\---
+---
 
 
 
-\## 2. README.md 생성
+## 2. README.md 생성
 
 
 
-\### 실행한 명령어
+### 실행한 명령어
 
 
 
@@ -74,7 +74,7 @@ notepad README.md
 
 
 
-\### 결과
+### 결과
 
 
 
@@ -82,7 +82,7 @@ notepad README.md
 
 
 
-\---
+---
 
 
 
@@ -104,5 +104,36 @@ notepad README.md
 
 \- `notepad`: 메모장으로 파일 열기
 
+---
 
+## 4. Git 설치 확인
+
+### 실행한 명령어
+
+```powershell```
+git --version
+
+결과
+Git 버전을 확인했다.
+
+git version 2.56.0.windows.4
+
+#  Git 저장소 만들기
+
+### 실행한 명령어
+
+```powershell```
+git --version
+git init
+git status
+git add README.md
+git status
+git commit -m "docs: add README"
+
+Docker 설치를 확인했다.
+
+text
+
+Docker version 29.0.2, build ae82528
+Docker Compose version v5.6.1
 
